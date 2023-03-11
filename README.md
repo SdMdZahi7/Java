@@ -1,4 +1,4 @@
-### Java Weekly Assessment
+# Java Weekly Assessment
 
 ## 1 ) WRITE A JAVA PROGRAM TO PRINT THE SUM,MULTIPLY,SUBTRACT,DIVIDE AND REMAINDER OD TWO NUMBERS
 
